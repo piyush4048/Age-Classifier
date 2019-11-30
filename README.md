@@ -1,2 +1,2 @@
 # Age-Classifier
-To detect the age of different people
+To classify the age between young, old,middle.
